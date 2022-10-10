@@ -22,16 +22,13 @@ Por este motivo estoy buscando una oferta laboral en desarrollo de aplicaciones 
 [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white&labelColor=101010)]()
 [![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white&labelColor=101010)]()
 </br>
-
 * [![Apple](https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoColor=white&labelColor=101010)]()
 [![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white&labelColor=101010)]()
 [![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=xcode&logoColor=white&labelColor=101010)]()
 </br>
-
 * [![Java](https://img.shields.io/badge/Java-F05138?style=flat)]()
 [![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white&labelColor=101010)]()
 </br>
-
 * [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white&labelColor=101010)]()
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white&labelColor=101010)]()
 [![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat&logo=bitbucket&logoColor=white&labelColor=101010)]()
@@ -46,4 +43,4 @@ En esta cuenta de GitHub iré publicando las aplicaciones móviles que voy desar
 ### Contacto ✉
 [![Email](https://img.shields.io/badge/miguelcanton97@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:miguelcanton97@gmail.com)
 </br>
-[![LinkedIn](https://img.shields.io/badge/miguelcantongonzalez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](www.linkedin.com/in/miguel-canton-gonzalez)
+[![LinkedIn](https://img.shields.io/badge/miguelcantongonzalez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/miguel-canton-gonzalez)
