@@ -21,19 +21,15 @@ Por este motivo estoy buscando una oferta laboral en desarrollo de aplicaciones 
 * [![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white&labelColor=101010)]()
 [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white&labelColor=101010)]()
 [![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white&labelColor=101010)]()
-</br>
 * [![Apple](https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoColor=white&labelColor=101010)]()
 [![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white&labelColor=101010)]()
 [![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=xcode&logoColor=white&labelColor=101010)]()
-</br>
 * [![Java](https://img.shields.io/badge/Java-F05138?style=flat)]()
 [![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white&labelColor=101010)]()
-</br>
 * [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white&labelColor=101010)]()
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white&labelColor=101010)]()
 [![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat&logo=bitbucket&logoColor=white&labelColor=101010)]()
 [![Sourcetree](https://img.shields.io/badge/Sourcetree-0052CC?style=flat&logo=sourcetree&logoColor=white&labelColor=101010)]()
-</br>
 
 ### Github
 
