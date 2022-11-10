@@ -6,7 +6,7 @@
 
 Soy Graduado en Ingeniería de Tecnologías de Telecomunicación por la Universidad de Valladolid.
 
-Como parte de mi TFG he creado "e-poliTrauma". Un proyecto en el que he desarrollado dos aplicaciones móviles nativas, Android y iOS, que sirven de apoyo a la asignatura Simulación Clínica Avanzada del Grado de Medicina. La aplicación está disponible en la [App Store](https://apps.apple.com/es/app/e-politrauma/id6443849236?platform=iphone) y será próximamente publicada en Google Play.
+Como parte de mi TFG he creado "e-poliTrauma". Un proyecto en el que he desarrollado dos aplicaciones móviles nativas, Android y iOS, que sirven de apoyo a la asignatura Simulación Clínica Avanzada del Grado de Medicina. La aplicación está disponible en [Play Store](https://play.google.com/store/apps/details?id=com.ePoliTrauma) y en [App Store](https://apps.apple.com/es/app/e-politrauma/id6443849236?platform=iphone).
 
 He realizado prácticas en el Grupo de Telemedicina y e-Salud (GTe) de la ETSIT-UVa en colaboración con doctores y profesores de la Facultad de Medicina.
 
